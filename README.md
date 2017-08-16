@@ -1,2 +1,1 @@
-# Special
-Some special techniques
+# Some Special Techniques
