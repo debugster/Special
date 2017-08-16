@@ -1,6 +1,6 @@
 /// Here, fastScan() uses getchar_unlocked() to read from buffer
 /// getchar_unlocked() is not an Standard C/C++ function rather than a POSIX one
-/// Thus, this program will not run on Windows platform but in Linux
+/// Thus, this program will not run on Windows platform but on Linux
 
 #include <bits/stdc++.h>
 
